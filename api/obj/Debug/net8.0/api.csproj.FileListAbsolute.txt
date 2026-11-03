@@ -139,10 +139,3 @@ C:\Users\reyes\Documents\GitHub\khentaro reyes simplevia project\api\obj\Debug\n
 C:\Users\reyes\Documents\GitHub\khentaro reyes simplevia project\api\obj\Debug\net8.0\api.pdb
 C:\Users\reyes\Documents\GitHub\khentaro reyes simplevia project\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\reyes\Documents\GitHub\khentaro reyes simplevia project\api\obj\Debug\net8.0\ref\api.dll
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\appsettings.Development.json
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\appsettings.json
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\api.staticwebassets.endpoints.json
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\api.deps.json
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\api.runtimeconfig.json
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\api.dll
-C:\Users\reyes\AppData\Local\Temp\simplevia-swagger-run\api.pdb
